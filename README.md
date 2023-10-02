@@ -1,0 +1,2 @@
+# PetStoreTests
+Тестирование API PetStore
